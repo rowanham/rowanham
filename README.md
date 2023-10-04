@@ -1,4 +1,7 @@
-### Hi there 👋
+# Rowan Hamilton
+
+### (No, not *that* [Rowan Hamilton...](https://en.wikipedia.org/wiki/William_Rowan_Hamilton))
+### (...and, yes, my first name is actually "William"...)
 
 <!--
 **rowanham/rowanham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Projects
+
+
+### I just started this.so this list will vbe incomplete.
+
+
+* The [RoScope]()
+  + embedded
+  + host
+
+
+* Documentation
+    + On the RoScope:
+        * The Host
+        * The Target
+        * Associated Hardware
+    + Math & Physics:
+        * Manifolds, etc.
+    + Logbooks:
+        * Foretellai
+        * iCoin
+        * One Drop
