@@ -1,6 +1,6 @@
 ## Rowan Hamilton
 
-(No, not *that* [Rowan Hamilton...](https://en.wikipedia.org/wiki/William_Rowan_Hamilton))
+
 (...and, yes, my first name is actually "William"...)
 
 <!--
