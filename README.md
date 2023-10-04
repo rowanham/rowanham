@@ -36,7 +36,7 @@ I just started this, so this list will be incomplete.
         * Associated Hardware
     + Math & Physics:
         * For Angus...(College prep stuff for my son.)
-            + [Dual Spaces...}(https://bitbucket.org/RowanHamilton/angus/src/main/Dual%20Space%20for%20Angus.pdf)
+            + [Dual Spaces...](https://bitbucket.org/RowanHamilton/angus/src/main/Dual%20Space%20for%20Angus.pdf)
             + [Linear Vector Spaces...](https://bitbucket.org/RowanHamilton/angus/src/main/LinearStuffForAngus.pdf)
     + Logbooks:
         * [Foretellai]()
