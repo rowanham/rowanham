@@ -1,7 +1,7 @@
-# Rowan Hamilton
+## Rowan Hamilton
 
-### (No, not *that* [Rowan Hamilton...](https://en.wikipedia.org/wiki/William_Rowan_Hamilton))
-### (...and, yes, my first name is actually "William"...)
+(No, not *that* [Rowan Hamilton...](https://en.wikipedia.org/wiki/William_Rowan_Hamilton))
+(...and, yes, my first name is actually "William"...)
 
 <!--
 **rowanham/rowanham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Projects
+### Projects
 
 
-### I just started this.so this list will vbe incomplete.
+I just started this, so this list will be incomplete.
 
 
 * The [RoScope]()
