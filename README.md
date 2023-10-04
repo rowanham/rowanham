@@ -25,7 +25,7 @@ I just started this, so this list will be incomplete.
 
 
 * The [RoScope]()
-  + embedded
+  + [embedded](https://github.com/rowanham/RoScopeTarget)
   + [host](https://github.com/rowanham/RoScopeHost)
 
 
