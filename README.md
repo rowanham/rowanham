@@ -35,8 +35,11 @@ I just started this, so this list will be incomplete.
         * The Target
         * Associated Hardware
     + Math & Physics:
-        * Manifolds, etc.
+        * For Angus...(College prep stuff for my son.)
+            + [Dual Spaces...}(https://bitbucket.org/RowanHamilton/angus/src/main/Dual%20Space%20for%20Angus.pdf)
+            + [Linear Vector Spaces...](https://bitbucket.org/RowanHamilton/angus/src/main/LinearStuffForAngus.pdf)
     + Logbooks:
-        * Foretellai
-        * iCoin
-        * One Drop
+        * [Foretellai]()
+        * [iCoin]()
+        * [One Drop]()
+        * 
