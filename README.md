@@ -35,7 +35,13 @@ Here are some ideas to get you started:
 ----
 
 
+(I need to create PDF versions of all the notebooks and put them in a separate folder with public access.)
+
 * Documentation - all jupyter notebooks. (I like them because they format nicely, they easily include figures, and they support (a subset of) LaTex.) They are all on [bitbucket](), so I will make them available when I have time. (Except for the work logbooks, those will have to wait until I am dead.)
+    + On the BioScope:
+        * The Host
+        * The Target
+        * Associated Hardware
     + On the RoScope:
         * The Host
         * The Target
