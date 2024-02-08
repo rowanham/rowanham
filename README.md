@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 * The [BioScope]() - This is my new project - a device that reads EEG (and ECG and EMG and IMU). It is built on a crowd sourced project [from WallySci](wallysci.com), and I am starting with their example code. The hardware is based on an ESP32 WROOM board, with daughter boards hanging off it that provide the front-end electronics (really just two op-amps) for the signals coming off the body.
-  + [target]( https://htmlpreview.github.io/?https://github.com/rowanham/BioScopeTarget) - This is the repo for the firmware, which is entirely written in C++.
+  + [target](https://htmlpreview.github.io/?https://github.com/rowanham/BioScopeTarget) - This is the repo for the firmware, which is entirely written in C++.
   + [host](https://github.com/rowanham/BioScopeHost) - This is the repo for the software, which is entirely written in Python.
 
 
