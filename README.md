@@ -35,9 +35,13 @@ Here are some ideas to get you started:
 ----
 
 
+### Documentation
+
+
 (I need to create PDF versions of all the notebooks and put them in a separate folder with public access.)
 
-* Documentation - all my [logbooks](https://bitbucket.org/RowanHamilton/logbooks/src/main/). (I like to use jupyter notebooks because they format nicely, they easily include figures, and they support (a subset of) LaTex.) They are all on [bitbucket](), so I will make them available when I have time. (Except for the work logbooks, those will have to wait until I am dead.)
+
+* All my [logbooks](https://bitbucket.org/RowanHamilton/logbooks/src/main/). (I like to use jupyter notebooks because they format nicely, they easily include figures, and they support (a subset of) LaTex.) They are all on [bitbucket](), so I will make them available when I have time. (Except for the work logbooks, those will have to wait until I am dead.)
     + On the BioScope:
         * The Host
         * The Target
