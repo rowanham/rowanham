@@ -1,7 +1,7 @@
 ## Rowan Hamilton
 
 
-(...and, yes, my first name is actually ["William"](https://en.wikipedia.org/wiki/William_Rowan_Hamilton)...)
+(...my first name is actually ["William"](https://en.wikipedia.org/wiki/William_Rowan_Hamilton)...)
 
 <!--
 **rowanham/rowanham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
