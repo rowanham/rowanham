@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 
 
 * All my [logbooks](https://bitbucket.org/RowanHamilton/logbooks/src/main/). (I like to use jupyter notebooks because they format nicely, they easily include figures, and they support (a subset of) LaTex.) They are all on `bitbucket`, so I will make them available when I have time. (Except for the work logbooks, since those could have proprietary info in them.)
+    + Example:
+        * [a logbook](https://htmlpreview.github.io/?https://bitbucket.org/RowanHamilton/logbooks/src/main/)
     + On the BioScope:
         * The [Host](https://bitbucket.org/RowanHamilton/host/src/master/)
         * The [Target](https://bitbucket.org/RowanHamilton/embedded/src/develop/)
